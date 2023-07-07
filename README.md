@@ -1,5 +1,6 @@
 # Movie-Booking-System User Interfaces
 
+# Signup Page
 ![Signup Page](https://github.com/ThesaranaDissanayake/Movie-Booking-System/assets/128695643/41a6c9f7-e6be-4f8e-b529-0ab51d5f485a)
 ![HomePage](https://github.com/ThesaranaDissanayake/Movie-Booking-System/assets/128695643/4c38655a-6156-44aa-9c73-b0e8a91a7646)
 ![About Us Page](https://github.com/ThesaranaDissanayake/Movie-Booking-System/assets/128695643/b51784cf-52bd-479a-b94d-162a2379177a)
